@@ -1,0 +1,12 @@
+# Ignore virtual environment
+venv/
+
+# Ignore IDE settings
+.idea/
+
+# Ignore common Python artifacts
+*.pyc
+__pycache__/
+
+# Ignore SQLite database
+db.sqlite3
