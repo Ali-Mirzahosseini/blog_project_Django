@@ -1,1 +1,1 @@
-# blog_project
+# blog_project with Django
